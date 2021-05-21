@@ -10,7 +10,7 @@ Roomcheck is a little statisic tool, that depicts montly prices and availabilite
 - [Copyright and license](#copyright-and-license)
 
 # Quickstart
-Download Git Repo and datasets and run jupyter notebook.
+Download Git Repo including the datasets. Run jupyter notebook.
 
 - Install Pandas: `pip install pandas`
 - Install Numpy: `pip install numpy`
