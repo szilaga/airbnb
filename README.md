@@ -1,6 +1,14 @@
 # Airbnb - Roomcheck
 Roomcheck is a little statisic tool, that depicts montly prices and availabilites of rooms in a city.
 
+
+## Table of contents
+
+- [Quickstart](#quick-start)
+- [What's included](#whats-included)
+- [Description](#description)
+- [Copyright and license](#copyright-and-license)
+
 # Quickstart
 Download Git Repo and datasets and run jupyter notebook.
 
