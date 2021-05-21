@@ -33,5 +33,5 @@ Currently it only depicts one bed rooms.
 Another plot, that shows the prive development for the best rooms based on the highest review number and score.
 
 
-##Copyright and license
+## Copyright and license
 Unlicensed  product. Free to use. All libaries in this project are public licensed 
