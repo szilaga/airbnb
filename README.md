@@ -15,7 +15,7 @@ an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airb
 
 # Quickstart
 Download the entire Git Repo including the datasets. Execute the notebook <b>"airbnb_analysis.ipynb"</b> in your jupyter.<br/>
-Before execution: If you do not already have installed the listed libraies before, please do this as a previous step.
+Before execution: If you do not already have installed the listed libraies below, please install them in a previous step.
 
 - Install <a href="https://pypi.org/project/pandas/">Pandas:</a> `pip install pandas`
 - Install <a href="https://pypi.org/project/numpy/">Numpy:</a> `pip install numpy`
