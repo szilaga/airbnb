@@ -1,6 +1,6 @@
 # Airbnb - Roomcheck
-Roomcheck is a collection of statistical methods and plots, written in python to answer specific questions related to
-a datasets, which can be downloaded <a href="https://www.kaggle.com/airbnb/seattle">@kaggle</a>.
+The Airbnb - Roomcheck is a collection of statistical methods and plots, written in python to answer specific questions related to
+an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airbnb/seattle">@kaggle</a>.
 
 
 ## Table of contents
