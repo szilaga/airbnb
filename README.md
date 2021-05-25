@@ -7,7 +7,7 @@ an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airb
 
 - [Quickstart](#quick-start)
 - [Idea](#idea)
-- [What's included](#whats included)
+- [What's included](#whats-included)
 - [Description](#description)
 - [Copyright and license](#copyright-and-license)
 
