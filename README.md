@@ -66,6 +66,6 @@ If you like this project, please feel free to code.
 
 ## Copyright and license
 The code itself is free licensed. All libaries, used in this project are still under the given licence model.
-For more information please check the licence @pypi.org listed in [Quickstart](#quick-start)
+For more information please check the licence @pypi.org for every library listed above.
 
 
