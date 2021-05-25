@@ -7,8 +7,10 @@ an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airb
 
 - [Quickstart](#quick-start)
 - [Idea](#idea)
+- [What's included](#what's included)
 - [Description](#description)
 - [Copyright and license](#copyright-and-license)
+
 
 # Quickstart
 Download Git Repo including the datasets. Run jupyter notebook.
@@ -18,9 +20,11 @@ Download Git Repo including the datasets. Run jupyter notebook.
 - Install <a href="https://pypi.org/project/matplotlib"/>Plotlib:</a> `pip install matplotlib` 
 - Install <a href="https://pypi.org/project/seaborn">Seaborn:</a> `pip install seaborn`
 
+
 ## Idea
 This project can be seen as a collection of methods, written in python to analyse a relation dataset.
 It will be extended with additional methods to get some inspirations, in what way data kind be examined.
+
 
 ## What's included
 ```text
@@ -32,6 +36,7 @@ airbnb/
 ├── airbnb_analysis.ipynb
 ├── README.MD
 ```
+
 
 ## Description
 
@@ -51,6 +56,7 @@ Sum of all rooms, listed as available ans splitted by month
 
 #### Strongest influence in price development:
 Seaborn heatmap that provides a correlation matrix to investigate, which columns have a strong dependencies in respect of the given column set.
+
 
 ## Copyright and license
 Unlicensed  product. Free to use. All libaries in this project are public licensed 
