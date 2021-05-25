@@ -22,6 +22,16 @@ Download Git Repo including the datasets. Run jupyter notebook.
 This project can be seen as a collection of methods, written in python to analyse a relation dataset.
 It will be extended with additional methods to get some inspirations, in what way data kind be examined.
 
+## What's included
+```text
+airbnb/
+├── data/
+│   ├── calendar.csv
+│   ├── listings.csv
+│   ├── reviews.csv
+├── airbnb_analysis.ipynb
+├── README.MD
+```
 
 ## Description
 
