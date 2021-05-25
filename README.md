@@ -61,6 +61,11 @@ Sum of all rooms, listed as available ans splitted by month
 Seaborn heatmap that provides a correlation matrix to investigate, which columns have a strong dependencies in respect of the given column set.
 
 
+## Contributing
+If you like this project, please feel free to code. 
 
 ## Copyright and license
-Unlicensed  product. Free to use. All libaries in this project are public licensed 
+The code itself is licensed free. All libaries, used in this project are still under the given licence model.
+For more information please check the licence @pypi.org listed in [Quickstart](#quick-start)
+
+
