@@ -1,5 +1,6 @@
 # Airbnb - Roomcheck
-Roomcheck is a little statisic tool, that depicts montly prices and availabilites of rooms in a city.
+Roomcheck is a collection of statistical methods and plots, written in python to answer specific questions in respect of a 
+datasets which are available <a href="https://www.kaggle.com/airbnb/seattle">@kaggle</a>.
 
 
 ## Table of contents
