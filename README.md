@@ -1,12 +1,12 @@
 # Airbnb - Roomcheck
-Roomcheck is a collection of statistical methods and plots, written in python to answer specific questions in respect of a 
-datasets which are available <a href="https://www.kaggle.com/airbnb/seattle">@kaggle</a>.
+Roomcheck is a collection of statistical methods and plots, written in python to answer specific questions related to
+a datasets, which can be downloaded <a href="https://www.kaggle.com/airbnb/seattle">@kaggle</a>.
 
 
 ## Table of contents
 
 - [Quickstart](#quick-start)
-- [What's included](#whats-included)
+- [Idea](#idea)
 - [Description](#description)
 - [Copyright and license](#copyright-and-license)
 
@@ -18,14 +18,10 @@ Download Git Repo including the datasets. Run jupyter notebook.
 - Install <a href="https://pypi.org/project/matplotlib"/>Plotlib:</a> `pip install matplotlib` 
 - Install <a href="https://pypi.org/project/seaborn">Seaborn:</a> `pip install seaborn`
 
-## What's included
+## Idea
+This project can be seen as a collection of methods, written in python to analyse a relation dataset.
+It will be extended with additional methods to get some inspirations, in what way data kind be examined.
 
-In the current version, roomcheck answer following questions:
-- Price development during a given timeline in a city 
-- Availablilty of rooms in city
-- Price depended on score rate
-- Possible reasons for price increase/ decrease
-- Price for best rooms
 
 ## Description
 
