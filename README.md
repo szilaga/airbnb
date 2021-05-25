@@ -11,7 +11,8 @@ an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airb
 - [Description](#description)
 - [Copyright and license](#copyright-and-license)
 
-<br/>
+
+
 # Quickstart
 Download Git Repo including the datasets. Run jupyter notebook.
 
@@ -37,7 +38,8 @@ airbnb/
 ├── README.MD
 ```
 
-<br/>
+
+
 ## Description
 
 #### Function getPriceDevelopment(method):
@@ -57,6 +59,7 @@ Sum of all rooms, listed as available ans splitted by month
 #### Strongest influence in price development:
 Seaborn heatmap that provides a correlation matrix to investigate, which columns have a strong dependencies in respect of the given column set.
 
-<br/>
+
+
 ## Copyright and license
 Unlicensed  product. Free to use. All libaries in this project are public licensed 
