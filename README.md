@@ -12,10 +12,10 @@ Roomcheck is a little statisic tool, that depicts montly prices and availabilite
 # Quickstart
 Download Git Repo including the datasets. Run jupyter notebook.
 
-- Install Pandas: `pip install pandas`
-- Install Numpy: `pip install numpy`
-- Install Plotlib: `pip install matplotlib` 
-- Install Seaborn: `pip install seaborn`
+- Install <a href="https://pypi.org/project/pandas/">Pandas:</a> `pip install pandas`
+- Install <a href="https://pypi.org/project/numpy/">Numpy:</a> `pip install numpy`
+- Install <a href="https://pypi.org/project/matplotlib"/>Plotlib:</a> `pip install matplotlib` 
+- Install <a href="https://pypi.org/project/seaborn">Seaborn:</a> `pip install seaborn`
 
 ## What's included
 
