@@ -12,8 +12,10 @@ an Airbnb datasets, which can be downloaded <a href="https://www.kaggle.com/airb
 - [Copyright and license](#copyright-and-license)
 
 
+
 # Quickstart
-Download Git Repo including the datasets. Run jupyter notebook.
+Download the entire Git Repo including the datasets. Execute the notebook <b>"airbnb_analysis.ipynb"</b> in your jupyter.<br/>
+Before execution: If you do not already have installed the listed libraies below, please install them in a previous step.
 
 - Install <a href="https://pypi.org/project/pandas/">Pandas:</a> `pip install pandas`
 - Install <a href="https://pypi.org/project/numpy/">Numpy:</a> `pip install numpy`
@@ -38,6 +40,7 @@ airbnb/
 ```
 
 
+
 ## Description
 
 #### Function getPriceDevelopment(method):
@@ -58,5 +61,11 @@ Sum of all rooms, listed as available ans splitted by month
 Seaborn heatmap that provides a correlation matrix to investigate, which columns have a strong dependencies in respect of the given column set.
 
 
+## Contributing
+If you like this project, please feel free to code. 
+
 ## Copyright and license
-Unlicensed  product. Free to use. All libaries in this project are public licensed 
+The code itself is free licensed. All libaries, used in this project are still under the given licence model.
+For more information please check the licence @pypi.org for every library listed above.
+
+
